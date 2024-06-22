@@ -9,4 +9,11 @@ To run ama.py you need to create config.toml file. Below are the content of conf
 url = "Your API URL"
 ```
 
+To launch Streamlit
+
+```
+streamlit run ama.py --server.port 8080
+```
+
+
 
