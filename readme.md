@@ -2,6 +2,13 @@
 AMA stand for Ask Me Anything. It is chat bot UI which utilize AWS Bedrock marketplace model. The UI is developed using Sreamlit framework.
 This project is for POC purpose.
 
+## Cloing this repositoryHow to Clone from Gitlab
+1. Create Project access token.
+2. issue 'git clone ...' as shown below.
+```
+git clone https://<USER NAME>:<PAT>@github.com/setiamanlhc/genai-ui.git
+```
+
 To run ama.py you need to create config.toml file. Below are the content of config.toml.
 
 ```
